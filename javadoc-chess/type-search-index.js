@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Chess"},{"p":"<Unnamed>","l":"ChessBoard"},{"p":"<Unnamed>","l":"ChessPiece"},{"p":"<Unnamed>","l":"Point"}]
